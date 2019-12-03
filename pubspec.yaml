@@ -45,6 +45,15 @@ flutter:
     - icongoogle.png
     - iconfb.png
     - bags.png
+    - iconmastercard.png
+    - dhl.png
+    - fedex.png
+    - usps.png
+    - avartar.png
+    - iconrate.png
+    - small.png
+    - small-1.png
+    - small-2.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
 
